@@ -1,0 +1,91 @@
+{
+  "profile": {
+    "name": "Satyanchal Chaudhary",
+    "role": "Fullstack Developer",
+    "location": "India",
+    "tagline": "Building experimental interfaces, AI-powered tools, and terminal-inspired web experiences."
+  },
+  "summary": "Fullstack developer focused on React, TypeScript, AI integrations, and crafting high-performance, visually sharp digital products. I enjoy building experimental platforms, developer tools, and pushing UI/UX boundaries.",
+  "skills": [
+    "React",
+    "TypeScript",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "Tailwind CSS",
+    "Next.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Supabase",
+    "Git",
+    "Vite",
+    "Docker",
+    "Postman",
+    "Python",
+    "C++",
+    "Go"
+  ],
+  "projects": [
+    {
+      "title": "Voidexity",
+      "description": "AI-powered search engine using RAG and grounding to deliver accurate, real-time answers.",
+      "stack": ["React", "Vite", "Express", "Gemini API", "Exa API"],
+      "link": "https://voidexity.vercel.app/"
+    },
+    {
+      "title": "think.",
+      "description": "AI-powered human x AI social platform designed for deep thinking and knowledge sharing.",
+      "stack": ["React", "GenAI", "Cloudflare Workers", "Express", "MongoDB"],
+      "link": "https://think-alpha.vercel.app/"
+    },
+    {
+      "title": "API Point",
+      "description": "A scalable hub of diverse APIs built for modern applications with optimized performance.",
+      "stack": ["Node.js", "Express", "MongoDB", "REST", "Postman"],
+      "link": "https://api-point.vercel.app/"
+    },
+    {
+      "title": "GitProfile",
+      "description": "Dynamic GitHub profile viewer that fetches and renders structured developer data.",
+      "stack": ["React", "Express", "MongoDB", "GitHub API"],
+      "link": "https://template-plum-nu.vercel.app/iamsatyanchal"
+    },
+    {
+      "title": "AgroSevak",
+      "description": "AI-powered agriculture assistant with crop advice, weather insights, and market data.",
+      "stack": ["TypeScript", "React", "Tailwind CSS", "Vite", "PWA"],
+      "link": "https://agrosevak.vercel.app/"
+    },
+    {
+      "title": "Airobot",
+      "description": "ESP32-based IoT system for receiving anonymous messages via Telegram and displaying them in real-time.",
+      "stack": ["ESP32", "Telegram API", "Express", "MongoDB"],
+      "link": "https://msgsatya.vercel.app/"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Independent / Self Projects",
+      "role": "Fullstack Developer",
+      "period": "2022 - Present",
+      "details": "Designed and built multiple production-grade web apps, AI tools, APIs, and experimental platforms with focus on performance, scalability, and clean UI."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Self-driven Learning",
+      "degree": "Computer Science & Development",
+      "period": "Ongoing"
+    }
+  ],
+  "contact": {
+    "email": "iamsatyanchal@gmail.com",
+    "phone": "+91 9153912108"
+  },
+  "socials": {
+    "github": "https://github.com/iamsatyanchal",
+    "linkedin": "https://linkedin.com/in/iamsatyanchal",
+    "x": "https://x.com/iamsatyanchal"
+  }
+}
