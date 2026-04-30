@@ -53,3 +53,78 @@
   font-size: 13px;
   letter-spacing: 0.4px;
 }
+
+.terminal_body {
+  flex: 1;
+  overflow-y: auto;
+  padding: 16px;
+  font-size: 15px;
+  line-height: 1.45;
+}
+
+.terminal_line {
+  margin: 0 0 4px;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+.line_input {
+  color: #8fc49d;
+}
+
+.line_output {
+  color: #d7ead9;
+}
+
+.line_error {
+  color: #ff8475;
+}
+
+.line_system {
+  color: #67c983;
+}
+
+.terminal_command_form {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  margin-top: 8px;
+  flex-wrap: wrap;
+}
+
+.terminal_prompt_label {
+  color: #8fc49d;
+  font-weight: 600;
+}
+
+.terminal_command_input {
+  flex: 1;
+  min-width: 220px;
+  border: 0;
+  outline: none;
+  background: transparent;
+  color: #f1fff3;
+  font: inherit;
+  caret-color: #75dc93;
+}
+
+@media (max-width: 768px) {
+  .terminal_shell {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    border-radius: 0;
+    border-left: 0;
+    border-right: 0;
+  }
+
+  .terminal_body {
+    font-size: 14px;
+    padding: 12px;
+  }
+
+  .terminal_header {
+    padding: 0 10px;
+  }
+}
+
